@@ -2,10 +2,10 @@
 
 <img src="shadowtech-banner.png" width="100%" />
 
-# SHADOW TECH™
+# SHADOW TECH™  
 ### Creating Tomorrow’s Technology
 
-<b>Web Systems • Backend APIs • Automation Engineering</b>
+<b>Backend APIs • Infrastructure Systems • Automation Engineering</b>
 
 </div>
 
@@ -13,43 +13,94 @@
 
 ## 🧠 About Shadow Tech™
 
-Shadow Tech™ is a modern engineering brand focused on building scalable web platforms, backend infrastructure, and automation systems.
+Shadow Tech™ is an engineering-focused development brand building scalable backend systems, public APIs, and automation infrastructure for modern applications.
 
-### We specialize in:
-- Production-ready architectures  
-- Secure API development  
-- High-performance backend systems  
-- Automation-driven workflows  
-- Scalable infrastructure  
+Our mission is to help developers and startups launch products faster by providing reusable backend foundations and production-ready system tools.
 
 ---
 
-## 🛠 Technology Stack
+## 🛠 Core Technology Stack
 
-### Frontend Systems
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+### Backend & Infrastructure
+- Node.js  
+- REST API Architecture  
+- Authentication Systems  
+- Database Integration  
+- Scalable Backend Design  
 
-### Backend Infrastructure
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+### Automation & Tooling
+- Linux Automation  
+- API Integrations  
+- Workflow Systems  
+- Backend Utilities  
 
-### Automation & Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
-</p>
+### Frontend Integration
+- Web App API Integration  
+- Dashboard Systems  
+- Client-Server Architecture  
+
+---
+
+## 🚧 Currently Building
+
+### 🔌 Public Developer API Platform (Main Product)
+
+A backend API base designed for application developers to integrate into their projects, providing:
+
+- User authentication & account systems  
+- Secure API endpoints  
+- App data handling  
+- Backend logic for web and mobile apps  
+- Scalable infrastructure foundation  
+
+Built to reduce backend development time and accelerate product deployment.
+
+---
+
+### 🤖 WhatsApp Automation System (Supporting Product)
+
+A utility automation system built as a supporting platform for:
+
+- Media utility tools (public content processing)  
+- Group management automation  
+- Sticker and media tools  
+- Productivity command systems  
+- Backend API integration testing  
+
+Used as an automation layer and testing environment for system integrations.
+
+---
+
+## 🧩 Shadow Tech Engineering Values
+
+- Performance-first development  
+- Secure by design  
+- Clean system architecture  
+- Automation-driven workflows  
+- Scalability by default  
+
+---
+
+## 🌐 Open For Collaboration
+
+Shadow Tech™ is open to collaboration on:
+
+- Backend API projects  
+- Infrastructure systems  
+- Automation platforms  
+- Developer tools  
+
+If you are interested in collaboration or integration, contact Shadow Tech using the links below.
 
 ---
 
 ## 🎯 Mission Statement
 
-> Creating Tomorrow’s Technology by engineering scalable, secure, and high-performance digital systems.
+> Creating Tomorrow’s Technology by engineering scalable, secure, and production-ready digital systems.
 
 ---
 
-# 📬 CONTACT SHADOW TECH™
+# 📬 Contact Shadow Tech™
 
 <div align="center">
 
