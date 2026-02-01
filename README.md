@@ -104,7 +104,7 @@ If you are interested in collaboration or integration, contact Shadow Tech using
 
 <div align="center">
 
-<a href="https://t.me/ShadowTechOfficial">
+<a href="https://t.me/SHADOW_TECH_OFFICIAL">
 <img src="https://img.shields.io/badge/Telegram-Chat-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
